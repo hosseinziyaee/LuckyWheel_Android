@@ -5,9 +5,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.bluehomestudio.luckywheeldemo.MainActivity">
+    tools:context="ir.robofollow.luckywheeldemo.MainActivity">
 
-    <com.bluehomestudio.luckywheel.LuckyWheel
+    <ir.robofollow.luckywheel.LuckyWheel
         android:id="@+id/lwv"
         android:layout_width="250dp"
         android:layout_height="250dp"

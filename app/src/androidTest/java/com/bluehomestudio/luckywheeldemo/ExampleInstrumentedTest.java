@@ -1,4 +1,4 @@
-package com.bluehomestudio.luckywheeldemo;
+package ir.robofollow.luckywheeldemo;
 
 import org.junit.Test;
 
@@ -14,6 +14,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
 //        Context appContext = InstrumentationRegistry.getTargetContext();
 //
-//        assertEquals("com.bluehomestudio.luckywheeldemo", appContext.getPackageName());
+//        assertEquals("ir.robofollow.luckywheeldemo", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.bluehomestudio.luckywheeldemo;
+package ir.robofollow.luckywheeldemo;
 
 import org.junit.Test;
 

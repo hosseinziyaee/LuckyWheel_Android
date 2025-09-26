@@ -43,7 +43,7 @@ The wheel spins for a few seconds, then fires the `setLuckyWheelReachTheTarget` 
  **XML**
  
 ```xml
-<com.bluehomestudio.luckywheel.LuckyWheel
+<ir.robofollow.luckywheel.LuckyWheel
         android:id="@+id/lwv"
         android:layout_width="250dp"
         android:layout_height="250dp"
